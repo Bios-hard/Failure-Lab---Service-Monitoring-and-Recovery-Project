@@ -1,0 +1,8 @@
+[Unit]
+Description=Failure Lab - Disk Monitor
+After=local-fs.target
+
+[Service]
+Type=oneshot
+ExecStart=/opt/failure-lab/monitor/disk_monitor.sh
+ExecStartPost=/opt/failure-lab/recovery/disk_cleanup.sh

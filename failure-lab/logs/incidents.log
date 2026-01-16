@@ -1,0 +1,822 @@
+2026-01-13T22:14:30Z | INFO | TEST | Logging system initialized
+2026-01-13T22:29:45Z | INFO | DISK | Starting controlled disk fill (2048MB)
+2026-01-13T22:30:10Z | WARNING | DISK | Disk fill completed
+2026-01-13T22:35:31Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:36:14Z | INFO | DISK | Starting controlled disk fill (2048MB)
+2026-01-13T22:36:35Z | WARNING | DISK | Disk fill completed
+2026-01-13T22:38:48Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:41:21Z | INFO | DISK | Starting controlled disk fill (2048MB)
+2026-01-13T22:41:46Z | WARNING | DISK | Disk fill completed
+2026-01-13T22:42:30Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:42:30Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:42:30Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:44:15Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:44:15Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:44:15Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:44:15Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:46:44Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:46:44Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:46:44Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:46:44Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:47:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:47:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:47:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:47:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:49:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:49:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:49:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:49:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:50:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:50:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:50:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:50:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:51:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:51:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:51:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:51:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:53:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:53:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:53:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:53:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:54:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:54:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:54:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:54:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:55:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:55:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:55:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:55:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:56:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:56:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:56:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:56:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:57:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:57:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:57:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:57:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:58:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:58:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:58:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:58:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T22:59:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T22:59:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T22:59:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T22:59:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:01:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:01:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:01:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:01:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:02:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:02:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:02:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:02:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:03:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:03:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:03:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:03:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:04:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:04:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:04:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:04:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:05:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:05:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:05:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:05:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:07:04Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:07:04Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:07:04Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:07:04Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:08:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:08:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:08:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:08:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:09:23Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:09:23Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:09:23Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:09:23Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:10:34Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:10:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:10:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:10:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:10:44Z | INFO | SERVICE | Dummy service started (PID 16326)
+2026-01-13T23:11:35Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:11:35Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:11:35Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:11:35Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:12:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:12:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:12:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:12:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:13:22Z | INFO | SERVICE | Dummy service started (PID 16710)
+2026-01-13T23:14:03Z | WARNING | SERVICE | Dummy service was intentionally killed
+2026-01-13T23:14:03Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:14:03Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:14:03Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:14:03Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:15:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:15:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:15:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:15:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:16:18Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:16:18Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:16:18Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:16:18Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:17:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:17:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:17:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:17:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:18:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:18:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:18:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:18:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:19:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:19:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:19:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:19:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:21:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:21:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:21:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:21:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:22:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:22:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:22:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:22:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:23:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:23:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:23:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:23:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:24:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:24:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:24:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:24:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:26:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:26:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:26:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:26:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:27:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:27:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:27:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:27:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:28:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:28:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:28:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:28:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:29:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:29:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:29:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:29:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:30:37Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:30:37Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:30:37Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:30:37Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:31:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:31:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:31:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:31:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:32:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:32:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:32:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:32:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:34:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:34:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:34:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:34:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:35:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:35:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:35:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:35:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:36:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:36:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:36:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:36:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:37:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:37:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:37:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:37:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:38:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:38:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:38:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:38:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:40:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:40:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:40:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:40:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:40:54Z | INFO | SERVICE | Dummy service started (PID 18909)
+2026-01-13T23:41:13Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:41:13Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:41:13Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:41:13Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:42:20Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:42:20Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:42:20Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:42:20Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:43:27Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:43:27Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:43:27Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:43:27Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:43:39Z | INFO | SERVICE | Dummy service started (PID 19239)
+2026-01-13T23:44:14Z | INFO | SERVICE | Dummy service restarted while healthy
+2026-01-13T23:44:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:44:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:44:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:44:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:45:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:45:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:45:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:45:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:46:35Z | INFO | PERMISSION | Permissions OK
+2026-01-13T23:47:02Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:47:03Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:47:03Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:47:03Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:48:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:48:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:48:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:48:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:49:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:49:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:49:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:49:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:50:27Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:50:27Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:50:27Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:50:27Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:51:37Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:51:37Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:51:37Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:51:37Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:52:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:52:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:52:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:52:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:54:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:54:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:54:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:54:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:55:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:55:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:55:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:55:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:56:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:56:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:56:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:56:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:57:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:57:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:57:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:57:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:57:53Z | CRITICAL | PERMISSION | Invalid permissions on service.state (0)
+2026-01-13T23:57:53Z | WARNING | PERMISSION | Starting permission recovery
+2026-01-13T23:57:53Z | INFO | PERMISSION | Permission recovery completed
+2026-01-13T23:57:53Z | INFO | SERVICE | Dummy service started (PID 20479)
+2026-01-13T23:58:49Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:58:49Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:58:49Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:58:49Z | INFO | DISK | Disk recovery procedure completed
+2026-01-13T23:59:55Z | INFO | DISK | Disk usage normal (2%)
+2026-01-13T23:59:55Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-13T23:59:55Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-13T23:59:55Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:01:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:01:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:01:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:01:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:02:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:02:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:02:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:02:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:03:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:03:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:03:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:03:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:04:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:04:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:04:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:04:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:05:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:05:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:05:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:05:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:07:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:07:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:07:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:07:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:08:08Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:08:08Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:08:08Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:08:08Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:09:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:09:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:09:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:09:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:10:09Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:10:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:10:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:10:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:10:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:11:43Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:11:44Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:11:44Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:11:44Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:11:52Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:12:26Z | CRITICAL | PERMISSION | Invalid permissions on service.state (0)
+2026-01-14T00:12:26Z | WARNING | PERMISSION | Starting permission recovery
+2026-01-14T00:12:26Z | INFO | PERMISSION | Permission recovery completed
+2026-01-14T00:12:26Z | INFO | SERVICE | Dummy service started (PID 22235)
+2026-01-14T00:12:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:12:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:12:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:12:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:13:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:13:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:14:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:14:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:14:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:14:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:14:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:14:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:15:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:15:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:15:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:15:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:15:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:15:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:16:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:16:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:16:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:16:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:16:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:17:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:17:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:17:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:17:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:17:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:17:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:18:11Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:18:45Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:18:45Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:18:45Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:18:45Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:18:45Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:19:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:19:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:19:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:19:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:19:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:19:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:20:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:20:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:20:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:20:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:20:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:20:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:21:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:22:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:22:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:22:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:22:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:22:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:22:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:23:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:23:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:23:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:23:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:23:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:23:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:24:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:24:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:24:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:24:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:24:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:25:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:25:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:25:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:25:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:25:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:25:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:26:09Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:26:44Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:26:44Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:26:44Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:26:44Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:26:44Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:27:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:27:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:27:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:27:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:27:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:27:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:28:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:28:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:28:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:28:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:28:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:28:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:29:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:30:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:30:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:30:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:30:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:30:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:30:35Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:30:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:31:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:31:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:31:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:31:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:31:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:31:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:32:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:32:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:32:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:32:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:32:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:33:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:33:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:33:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:33:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:33:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:33:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:33:41Z | INFO | SERVICE | Dummy service started (PID 24299)
+2026-01-14T00:33:57Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:34:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:34:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:34:41Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:34:41Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:34:41Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:34:41Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:35:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:35:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:35:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:35:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:35:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:35:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:36:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:36:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:36:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:36:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:36:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:36:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:37:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:37:38Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:38:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:38:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:38:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:38:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:38:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:38:13Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:38:37Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:38:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:39:12Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:39:12Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:39:12Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:39:12Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:39:12Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:39:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:39:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:40:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:40:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:40:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:40:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:40:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:40:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:40:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:40:51Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:40:55Z | INFO | SERVICE | Dummy service started (PID 24982)
+2026-01-14T00:41:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:41:21Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:41:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:41:21Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:41:21Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:41:21Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:41:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:41:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:42:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:42:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:42:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:42:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:42:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:42:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:43:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:43:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:43:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:43:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:43:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:43:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:43:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:43:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:44:07Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:44:07Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:44:42Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:44:42Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:44:42Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:44:42Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:44:42Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:44:42Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:45:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:45:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:45:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:45:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:45:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:45:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:45:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:45:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:46:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:46:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:46:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:46:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:46:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:46:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:46:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:46:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:47:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:47:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:48:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:48:01Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:48:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:48:01Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:48:01Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:48:01Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:48:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:48:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:49:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:49:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:49:06Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:49:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:49:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:49:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:49:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:49:41Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:50:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:50:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:50:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:50:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:50:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:50:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:50:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:50:51Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:51:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:51:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:51:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:51:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:51:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:51:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:52:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:52:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:52:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:52:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:52:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:52:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:52:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:52:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:53:11Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:53:11Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:53:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:53:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:53:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:53:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:53:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:53:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:53:59Z | INFO | SERVICE | Dummy service started (PID 26334)
+2026-01-14T00:54:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:54:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:54:53Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:54:53Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:54:53Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:54:53Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:54:53Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:54:53Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:55:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:55:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:55:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:55:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:55:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:55:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:55:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:55:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:56:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:56:31Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:57:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:57:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:57:06Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:57:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:57:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:57:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:57:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:57:41Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:58:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:58:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:58:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:58:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:58:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:58:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T00:58:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:58:51Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:59:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T00:59:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T00:59:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T00:59:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T00:59:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T00:59:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:00:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:00:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:00:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:00:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:00:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:00:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:00:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:00:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:01:11Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:01:11Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:01:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:01:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:01:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:01:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:01:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:01:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:02:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:02:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:02:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:02:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:02:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:02:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:02:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:02:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:03:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:03:31Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:04:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:04:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:04:06Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:04:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:04:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:04:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:04:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:04:41Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:05:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:05:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:05:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:05:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:05:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:05:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:05:49Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:05:49Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:06:24Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:06:24Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:06:24Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:06:24Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:06:24Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:06:24Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:06:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:06:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:07:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:07:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:07:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:07:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:07:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:07:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:08:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:08:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:08:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:08:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:08:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:08:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:08:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:08:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:09:11Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:09:11Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:09:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:09:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:09:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:09:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:09:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:09:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:10:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:10:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:10:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:10:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:10:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:10:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:10:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:10:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:11:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:11:31Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:12:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:12:06Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:12:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:12:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:12:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:12:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:12:41Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:12:41Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:13:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:13:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:13:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:13:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:13:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:13:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:13:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:13:51Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:14:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:14:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:14:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:14:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:14:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:14:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:15:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:15:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:15:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:15:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:15:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:15:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:15:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:15:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:16:11Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:16:11Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:16:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:16:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:16:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:16:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:16:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:16:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:17:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:17:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:17:57Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:17:57Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:17:57Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:17:57Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:17:57Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:17:57Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:18:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:18:31Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:19:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:19:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:19:06Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:19:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:19:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:19:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:19:38Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:19:39Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:20:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:20:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:20:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:20:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:20:13Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:20:13Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:20:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:20:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:21:16Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:21:16Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:21:16Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:21:16Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:21:16Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:21:16Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:21:51Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:21:51Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:22:26Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:22:26Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:22:26Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:22:26Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:22:26Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:22:26Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:23:01Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:23:01Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:23:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:23:36Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:23:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:23:36Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:23:36Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:23:36Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:24:11Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:24:11Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:24:46Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:24:46Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:24:46Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:24:46Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:24:46Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:24:46Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:25:21Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:25:21Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:25:56Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:25:56Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:25:56Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:25:56Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:25:56Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:25:56Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:26:31Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:26:31Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:27:04Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:27:04Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:27:04Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:27:04Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:27:04Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:27:04Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:27:36Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:27:36Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:28:06Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:28:06Z | INFO | DISK | Disk usage normal (2%)
+2026-01-14T01:28:06Z | INFO | SERVICE | Service dummy-service.service healthy
+2026-01-14T01:28:06Z | WARNING | DISK | Starting disk recovery procedure
+2026-01-14T01:28:06Z | INFO | DISK | Removed fill.img from disk-test
+2026-01-14T01:28:06Z | INFO | DISK | Disk recovery procedure completed
+2026-01-14T01:28:39Z | INFO | PERMISSION | Permissions OK (644)
+2026-01-14T01:28:39Z | INFO | SERVICE | Service dummy-service.service healthy
