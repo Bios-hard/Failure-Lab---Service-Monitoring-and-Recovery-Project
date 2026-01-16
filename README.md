@@ -1,0 +1,2 @@
+# Failure-Lab---Service-Monitoring-and-Recovery-Project
+Failure Lab is a Linux-based laboratory project designed to **simulate system failures and automatically monitor and recover services**. The project provides a controlled environment for testing service reliability, disk usage, and file permissions, allowing developers and administrators to experiment safely without risking production systems.
